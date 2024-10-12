@@ -1,0 +1,34 @@
+name: Generate Calendar
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'  # Runs at midnight UTC on the first day of each month
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16' 
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run the script
+        env:
+          RAWG_API_KEY: ${{ secrets.RAWG_API_KEY }}
+        run: node main.js
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "tmcbride@outlook.ie"
+          git config --local user.name "Tristan McBride"
+          git add upcoming_steam_releases.ics
+          git commit -m "Update calendar file" || echo "No changes to commit"
+          git push
