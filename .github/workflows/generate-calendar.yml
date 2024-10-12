@@ -33,3 +33,5 @@ jobs:
           git add upcoming_steam_releases.ics
           git commit -m "Update calendar file" || echo "No changes to commit"
           git push
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
