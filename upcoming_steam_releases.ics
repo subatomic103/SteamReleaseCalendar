@@ -5,107 +5,69 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:jGGdRWsF-drCJdQR9ThOR
-SUMMARY:Release: Drova - Forsaken Kin
-DTSTAMP:20241012T122145Z
-DTSTART;VALUE=DATE:20241014
-DESCRIPTION:Drova - Forsaken Kin will be released on this date!
+UID:Od_xmwyWupRz73j4uVtdt
+SUMMARY:Release: Metro Awakening
+DTSTAMP:20241101T015521Z
+DTSTART;VALUE=DATE:20241107
+DESCRIPTION:Metro Awakening will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:avfSHixDftUbwV8Jdrzs5
-SUMMARY:Release: Neva
-DTSTAMP:20241012T122145Z
-DTSTART;VALUE=DATE:20241015
-DESCRIPTION:Neva will be released on this date!
+UID:Qr-92vLk3TPXz_fArfxBW
+SUMMARY:Release: Slitterhead
+DTSTAMP:20241101T015521Z
+DTSTART;VALUE=DATE:20241108
+DESCRIPTION:Slitterhead will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:1v0-wJ9pAS3jRH8DH_4tl
-SUMMARY:Release: A Quiet Place: The Road Ahead
-DTSTAMP:20241012T122145Z
-DTSTART;VALUE=DATE:20241017
-DESCRIPTION:A Quiet Place: The Road Ahead will be released on this date!
+UID:QCrm4T2p0fl7i_MordNTz
+SUMMARY:Release: Bullet Runner
+DTSTAMP:20241101T015521Z
+DTSTART;VALUE=DATE:20241113
+DESCRIPTION:Bullet Runner will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:3RjFeQ307WhaAbF-QIxkC
-SUMMARY:Release: Unknown 9: Awakening
-DTSTAMP:20241012T122145Z
-DTSTART;VALUE=DATE:20241018
-DESCRIPTION:Unknown 9: Awakening will be released on this date!
+UID:JUXjdJhdQBZ0AX2ZGDpxz
+SUMMARY:Release: Lego Horizon Adventures
+DTSTAMP:20241101T015521Z
+DTSTART;VALUE=DATE:20241114
+DESCRIPTION:Lego Horizon Adventures will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:6LHR31VqAQyXwVlhf_KoT
-SUMMARY:Release: Speedollama
-DTSTAMP:20241012T122145Z
-DTSTART;VALUE=DATE:20241020
-DESCRIPTION:Speedollama will be released on this date!
-LOCATION:Steam Store
-END:VEVENT
-BEGIN:VEVENT
-UID:AHLubr1wD4te-Xbevsn59
-SUMMARY:Release: Care Bears: To The Rescue
-DTSTAMP:20241012T122145Z
-DTSTART;VALUE=DATE:20241023
-DESCRIPTION:Care Bears: To The Rescue will be released on this date!
-LOCATION:Steam Store
-END:VEVENT
-BEGIN:VEVENT
-UID:VTPYA-BWU2LiU0EM_0IrG
+UID:eiqgZ202PXmquzAl5S19D
 SUMMARY:Release: Flint: The Treasure of Oblivion
-DTSTAMP:20241012T122145Z
-DTSTART;VALUE=DATE:20241024
+DTSTAMP:20241101T015521Z
+DTSTART;VALUE=DATE:20241114
 DESCRIPTION:Flint: The Treasure of Oblivion will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:1B07ALanDt4Os917cyLth
-SUMMARY:Release: Call of Duty: Black Ops 6
-DTSTAMP:20241012T122145Z
-DTSTART;VALUE=DATE:20241025
-DESCRIPTION:Call of Duty: Black Ops 6 will be released on this date!
+UID:awBWNlsY_6r6k5ds6AxBB
+SUMMARY:Release: Microsoft Flight Simulator 2024
+DTSTAMP:20241101T015521Z
+DTSTART;VALUE=DATE:20241119
+DESCRIPTION:Microsoft Flight Simulator 2024 will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:JjjRfg6zTJ8oJasO_MAIs
-SUMMARY:Release: Sonic X Shadow Generations
-DTSTAMP:20241012T122145Z
-DTSTART;VALUE=DATE:20241025
-DESCRIPTION:Sonic X Shadow Generations will be released on this date!
+UID:xyl0cf-uczPLkhfxcgVgG
+SUMMARY:Release: S.T.A.L.K.E.R. 2: Heart of Chornobyl
+DTSTAMP:20241101T015521Z
+DTSTART;VALUE=DATE:20241120
+DESCRIPTION:S.T.A.L.K.E.R. 2: Heart of Chornobyl will be released on this d
+	ate!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:99jTp9iGCLquuKxL4lZqU
-SUMMARY:Release: Life is Strange: Double Exposure
-DTSTAMP:20241012T122145Z
-DTSTART;VALUE=DATE:20241029
-DESCRIPTION:Life is Strange: Double Exposure will be released on this date!
-LOCATION:Steam Store
-END:VEVENT
-BEGIN:VEVENT
-UID:UF8MMz_jxXqAB30L5n_VO
-SUMMARY:Release: Kingdom of Night
-DTSTAMP:20241012T122145Z
-DTSTART;VALUE=DATE:20241030
-DESCRIPTION:Kingdom of Night will be released on this date!
-LOCATION:Steam Store
-END:VEVENT
-BEGIN:VEVENT
-UID:QAn7A2fj4IPsKk3_ancfR
-SUMMARY:Release: Dragon Age: Dreadwolf
-DTSTAMP:20241012T122145Z
-DTSTART;VALUE=DATE:20241031
-DESCRIPTION:Dragon Age: Dreadwolf will be released on this date!
-LOCATION:Steam Store
-END:VEVENT
-BEGIN:VEVENT
-UID:0mBKUL3BkyU9fAr4J_UqD
-SUMMARY:Release: Horizon Zero Dawn Remastered
-DTSTAMP:20241012T122145Z
-DTSTART;VALUE=DATE:20241031
-DESCRIPTION:Horizon Zero Dawn Remastered will be released on this date!
+UID:zZs7J7PP74ZUTDGOt_MVT
+SUMMARY:Release: Vampire: The Masquerade - Bloodlines 2
+DTSTAMP:20241101T015521Z
+DTSTART;VALUE=DATE:20241130
+DESCRIPTION:Vampire: The Masquerade - Bloodlines 2 will be released on this
+	 date!
 LOCATION:Steam Store
 END:VEVENT
 END:VCALENDAR
