@@ -5,69 +5,150 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:Od_xmwyWupRz73j4uVtdt
-SUMMARY:Release: Metro Awakening
-DTSTAMP:20241101T015521Z
-DTSTART;VALUE=DATE:20241107
-DESCRIPTION:Metro Awakening will be released on this date!
+UID:7lEmggvc-KbMaH6uR2ZUi
+SUMMARY:Release: Farmer's Dynasty 2
+DTSTAMP:20241201T021047Z
+DTSTART;VALUE=DATE:20241204
+DESCRIPTION:Farmer's Dynasty 2 will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:Qr-92vLk3TPXz_fArfxBW
-SUMMARY:Release: Slitterhead
-DTSTAMP:20241101T015521Z
-DTSTART;VALUE=DATE:20241108
-DESCRIPTION:Slitterhead will be released on this date!
+UID:NI0yzK8pSLdqKIO_yWolo
+SUMMARY:Release: Infinity Nikki
+DTSTAMP:20241201T021047Z
+DTSTART;VALUE=DATE:20241205
+DESCRIPTION:Infinity Nikki will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:QCrm4T2p0fl7i_MordNTz
-SUMMARY:Release: Bullet Runner
-DTSTAMP:20241101T015521Z
-DTSTART;VALUE=DATE:20241113
-DESCRIPTION:Bullet Runner will be released on this date!
+UID:8etlT3yXwS_F0hBKFkstK
+SUMMARY:Release: Marvel's Rivers
+DTSTAMP:20241201T021047Z
+DTSTART;VALUE=DATE:20241206
+DESCRIPTION:Marvel's Rivers will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:JUXjdJhdQBZ0AX2ZGDpxz
-SUMMARY:Release: Lego Horizon Adventures
-DTSTAMP:20241101T015521Z
-DTSTART;VALUE=DATE:20241114
-DESCRIPTION:Lego Horizon Adventures will be released on this date!
+UID:dbj_DrEv9EIJ-57UTW_Ze
+SUMMARY:Release: Path of Exile 2
+DTSTAMP:20241201T021047Z
+DTSTART;VALUE=DATE:20241206
+DESCRIPTION:Path of Exile 2 will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:eiqgZ202PXmquzAl5S19D
-SUMMARY:Release: Flint: The Treasure of Oblivion
-DTSTAMP:20241101T015521Z
-DTSTART;VALUE=DATE:20241114
-DESCRIPTION:Flint: The Treasure of Oblivion will be released on this date!
+UID:3tt2yImUsDalt5D0B8gjU
+SUMMARY:Release: Legacy of Kain Soul Reaver 1&2 Remastered
+DTSTAMP:20241201T021047Z
+DTSTART;VALUE=DATE:20241209
+DESCRIPTION:Legacy of Kain Soul Reaver 1&2 Remastered will be released on t
+	his date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:awBWNlsY_6r6k5ds6AxBB
-SUMMARY:Release: Microsoft Flight Simulator 2024
-DTSTAMP:20241101T015521Z
-DTSTART;VALUE=DATE:20241119
-DESCRIPTION:Microsoft Flight Simulator 2024 will be released on this date!
+UID:eXV9f2XV1rJssTTgeymdN
+SUMMARY:Release: Indiana Jones and the Great Circle
+DTSTAMP:20241201T021047Z
+DTSTART;VALUE=DATE:20241209
+DESCRIPTION:Indiana Jones and the Great Circle will be released on this dat
+	e!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:xyl0cf-uczPLkhfxcgVgG
-SUMMARY:Release: S.T.A.L.K.E.R. 2: Heart of Chornobyl
-DTSTAMP:20241101T015521Z
-DTSTART;VALUE=DATE:20241120
-DESCRIPTION:S.T.A.L.K.E.R. 2: Heart of Chornobyl will be released on this d
-	ate!
+UID:jXgriZpinB0lYkd3OLDtj
+SUMMARY:Release: Nothing (2024)
+DTSTAMP:20241201T021047Z
+DTSTART;VALUE=DATE:20241210
+DESCRIPTION:Nothing (2024) will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:zZs7J7PP74ZUTDGOt_MVT
-SUMMARY:Release: Vampire: The Masquerade - Bloodlines 2
-DTSTAMP:20241101T015521Z
-DTSTART;VALUE=DATE:20241130
-DESCRIPTION:Vampire: The Masquerade - Bloodlines 2 will be released on this
-	 date!
+UID:rcjxKDPBSCnVirtHg0drg
+SUMMARY:Release: The Last Three
+DTSTAMP:20241201T021047Z
+DTSTART;VALUE=DATE:20241210
+DESCRIPTION:The Last Three will be released on this date!
+LOCATION:Steam Store
+END:VEVENT
+BEGIN:VEVENT
+UID:1t0APBXrt2jdedWruyO9I
+SUMMARY:Release: Legacy of Kain™ Soul Reaver 1&2 Remastered
+DTSTAMP:20241201T021047Z
+DTSTART;VALUE=DATE:20241210
+DESCRIPTION:Legacy of Kain™ Soul Reaver 1&2 Remastered will be released on 
+	this date!
+LOCATION:Steam Store
+END:VEVENT
+BEGIN:VEVENT
+UID:NtMocbSUapdShKUhoaKwu
+SUMMARY:Release: Kletka
+DTSTAMP:20241201T021047Z
+DTSTART;VALUE=DATE:20241212
+DESCRIPTION:Kletka will be released on this date!
+LOCATION:Steam Store
+END:VEVENT
+BEGIN:VEVENT
+UID:1MDbjSDVPyKhEkAQHgEFy
+SUMMARY:Release: Fairy Tail 2
+DTSTAMP:20241201T021047Z
+DTSTART;VALUE=DATE:20241212
+DESCRIPTION:Fairy Tail 2 will be released on this date!
+LOCATION:Steam Store
+END:VEVENT
+BEGIN:VEVENT
+UID:Nw1GP31bZoFRj-KFN2FSF
+SUMMARY:Release: Untitled Carnivores Game (2024)
+DTSTAMP:20241201T021047Z
+DTSTART;VALUE=DATE:20241220
+DESCRIPTION:Untitled Carnivores Game (2024) will be released on this date!
+LOCATION:Steam Store
+END:VEVENT
+BEGIN:VEVENT
+UID:bSPAQM55uuiam5YKL-k-U
+SUMMARY:Release: Arena Breakout: Infinite
+DTSTAMP:20241201T021047Z
+DTSTART;VALUE=DATE:20241230
+DESCRIPTION:Arena Breakout: Infinite will be released on this date!
+LOCATION:Steam Store
+END:VEVENT
+BEGIN:VEVENT
+UID:pLNvDb2WPnNUDXv-Fdfr7
+SUMMARY:Release: Yes\, Your Grace: Snowfall
+DTSTAMP:20241201T021047Z
+DTSTART;VALUE=DATE:20241231
+DESCRIPTION:Yes\, Your Grace: Snowfall will be released on this date!
+LOCATION:Steam Store
+END:VEVENT
+BEGIN:VEVENT
+UID:dIamZUornUD5l9FtlkF-G
+SUMMARY:Release: Midline '85
+DTSTAMP:20241201T021047Z
+DTSTART;VALUE=DATE:20241231
+DESCRIPTION:Midline '85 will be released on this date!
+LOCATION:Steam Store
+END:VEVENT
+BEGIN:VEVENT
+UID:uGTGN4x4oymJ3Owa-bG_Q
+SUMMARY:Release: The Wolf Among Us 2
+DTSTAMP:20241201T021047Z
+DTSTART;VALUE=DATE:20241231
+DESCRIPTION:The Wolf Among Us 2 will be released on this date!
+LOCATION:Steam Store
+END:VEVENT
+BEGIN:VEVENT
+UID:UTrczRCO5_bmR84TqfmhF
+SUMMARY:Release: Little Devil Inside
+DTSTAMP:20241201T021047Z
+DTSTART;VALUE=DATE:20241231
+DESCRIPTION:Little Devil Inside will be released on this date!
+LOCATION:Steam Store
+END:VEVENT
+BEGIN:VEVENT
+UID:S94yMsuY5ERRcw5X-Bcgv
+SUMMARY:Release: Hollow Knight: Silksong
+DTSTAMP:20241201T021047Z
+DTSTART;VALUE=DATE:20241231
+DESCRIPTION:Hollow Knight: Silksong will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 END:VCALENDAR
