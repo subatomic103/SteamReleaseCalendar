@@ -5,44 +5,52 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:zOlWgZigvZ48WHS46uEIL
-SUMMARY:Release: Freedom Wars Remastered
-DTSTAMP:20250101T015457Z
-DTSTART;VALUE=DATE:20250110
-DESCRIPTION:Freedom Wars Remastered will be released on this date!
+UID:wYDupfAMfbNx5E1eyENGz
+SUMMARY:Release: Kingdom Come: Deliverance II
+DTSTAMP:20250201T014924Z
+DTSTART;VALUE=DATE:20250204
+DESCRIPTION:Kingdom Come: Deliverance II will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:FEwSqXYWvFZudPJXxToSi
-SUMMARY:Release: DreadOut Remastered Collection
-DTSTAMP:20250101T015457Z
-DTSTART;VALUE=DATE:20250116
-DESCRIPTION:DreadOut Remastered Collection will be released on this date!
+UID:H2VuMaDaRNd089TQxqpPa
+SUMMARY:Release: Tomb Raider IV•V•VI Remastered
+DTSTAMP:20250201T014924Z
+DTSTART;VALUE=DATE:20250214
+DESCRIPTION:Tomb Raider IV•V•VI Remastered will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:HeLXGlJgJMpCPBgwobVUP
-SUMMARY:Release: Star Wars: Episode I: Jedi Power Battles
-DTSTAMP:20250101T015457Z
-DTSTART;VALUE=DATE:20250122
-DESCRIPTION:Star Wars: Episode I: Jedi Power Battles will be released on th
-	is date!
+UID:xcC6rCXzSOJIYP92NjqPg
+SUMMARY:Release: Avowed
+DTSTAMP:20250201T014924Z
+DTSTART;VALUE=DATE:20250218
+DESCRIPTION:Avowed will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:hMUyC7BevL392O1Tg5HiY
-SUMMARY:Release: Marvel's Spider-Man 2 PC Port
-DTSTAMP:20250101T015457Z
-DTSTART;VALUE=DATE:20250130
-DESCRIPTION:Marvel's Spider-Man 2 PC Port will be released on this date!
+UID:_THjO9nYJ0NpoXuATCAEp
+SUMMARY:Release: Lost Records: Bloom & Rage
+DTSTAMP:20250201T014924Z
+DTSTART;VALUE=DATE:20250218
+DESCRIPTION:Lost Records: Bloom & Rage will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:ozaYEOeMLO0dYweU77mwd
-SUMMARY:Release: Sniper Elite: Resistance
-DTSTAMP:20250101T015457Z
-DTSTART;VALUE=DATE:20250130
-DESCRIPTION:Sniper Elite: Resistance will be released on this date!
+UID:Pt5e6SXRnhNttrqR3_IWv
+SUMMARY:Release: Like a Dragon: Pirate Yakuza in Hawaii
+DTSTAMP:20250201T014924Z
+DTSTART;VALUE=DATE:20250221
+DESCRIPTION:Like a Dragon: Pirate Yakuza in Hawaii will be released on this
+	 date!
+LOCATION:Steam Store
+END:VEVENT
+BEGIN:VEVENT
+UID:iaV7Kx6tbEAMunsZoUzDi
+SUMMARY:Release: Monster Hunter Wilds
+DTSTAMP:20250201T014924Z
+DTSTART;VALUE=DATE:20250228
+DESCRIPTION:Monster Hunter Wilds will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 END:VCALENDAR
