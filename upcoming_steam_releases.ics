@@ -5,52 +5,78 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:wYDupfAMfbNx5E1eyENGz
-SUMMARY:Release: Kingdom Come: Deliverance II
-DTSTAMP:20250201T014924Z
-DTSTART;VALUE=DATE:20250204
-DESCRIPTION:Kingdom Come: Deliverance II will be released on this date!
+UID:HMLbKAZFkpGS7d1MljYUl
+SUMMARY:Release: Split Fiction
+DTSTAMP:20250301T015631Z
+DTSTART;VALUE=DATE:20250306
+DESCRIPTION:Split Fiction will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:H2VuMaDaRNd089TQxqpPa
-SUMMARY:Release: Tomb Raider IV•V•VI Remastered
-DTSTAMP:20250201T014924Z
-DTSTART;VALUE=DATE:20250214
-DESCRIPTION:Tomb Raider IV•V•VI Remastered will be released on this date!
+UID:6wiubVvWd-D7bZhPdtWvw
+SUMMARY:Release: Wanderstop
+DTSTAMP:20250301T015631Z
+DTSTART;VALUE=DATE:20250311
+DESCRIPTION:Wanderstop will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:xcC6rCXzSOJIYP92NjqPg
-SUMMARY:Release: Avowed
-DTSTAMP:20250201T014924Z
-DTSTART;VALUE=DATE:20250218
-DESCRIPTION:Avowed will be released on this date!
+UID:LDyZc-w9n7DMdrG4rM8L-
+SUMMARY:Release: Assassin's Creed Shadows
+DTSTAMP:20250301T015631Z
+DTSTART;VALUE=DATE:20250320
+DESCRIPTION:Assassin's Creed Shadows will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:_THjO9nYJ0NpoXuATCAEp
-SUMMARY:Release: Lost Records: Bloom & Rage
-DTSTAMP:20250201T014924Z
-DTSTART;VALUE=DATE:20250218
-DESCRIPTION:Lost Records: Bloom & Rage will be released on this date!
+UID:CD_k6dWG0bWMlaY9iKVhX
+SUMMARY:Release: Atelier Yumia: The Alchemist of Memories & the Envisioned 
+	Land
+DTSTAMP:20250301T015631Z
+DTSTART;VALUE=DATE:20250321
+DESCRIPTION:Atelier Yumia: The Alchemist of Memories & the Envisioned Land 
+	will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:Pt5e6SXRnhNttrqR3_IWv
-SUMMARY:Release: Like a Dragon: Pirate Yakuza in Hawaii
-DTSTAMP:20250201T014924Z
-DTSTART;VALUE=DATE:20250221
-DESCRIPTION:Like a Dragon: Pirate Yakuza in Hawaii will be released on this
-	 date!
+UID:grXfo4_sliJPrK7l7Rnwy
+SUMMARY:Release: Tales of the Shire: A The Lord of The Rings
+DTSTAMP:20250301T015631Z
+DTSTART;VALUE=DATE:20250324
+DESCRIPTION:Tales of the Shire: A The Lord of The Rings will be released on
+	 this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:iaV7Kx6tbEAMunsZoUzDi
-SUMMARY:Release: Monster Hunter Wilds
-DTSTAMP:20250201T014924Z
-DTSTART;VALUE=DATE:20250228
-DESCRIPTION:Monster Hunter Wilds will be released on this date!
+UID:YuykSwLAdMcW88K9XwRm4
+SUMMARY:Release: The First Berserker: Khazan
+DTSTAMP:20250301T015631Z
+DTSTART;VALUE=DATE:20250327
+DESCRIPTION:The First Berserker: Khazan will be released on this date!
+LOCATION:Steam Store
+END:VEVENT
+BEGIN:VEVENT
+UID:-eSUYGeUoFzVYe_Qzcjju
+SUMMARY:Release: AI-Limit
+DTSTAMP:20250301T015631Z
+DTSTART;VALUE=DATE:20250327
+DESCRIPTION:AI-Limit will be released on this date!
+LOCATION:Steam Store
+END:VEVENT
+BEGIN:VEVENT
+UID:DyyJHcSsSMSWmtusuMlaJ
+SUMMARY:Release: Atomfall
+DTSTAMP:20250301T015631Z
+DTSTART;VALUE=DATE:20250327
+DESCRIPTION:Atomfall will be released on this date!
+LOCATION:Steam Store
+END:VEVENT
+BEGIN:VEVENT
+UID:Xjcj7ujTAd1mXWDFmW_Eg
+SUMMARY:Release: Yes\, Your Grace: Snowfall
+DTSTAMP:20250301T015631Z
+DTSTART;VALUE=DATE:20250331
+DESCRIPTION:Yes\, Your Grace: Snowfall will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 END:VCALENDAR
