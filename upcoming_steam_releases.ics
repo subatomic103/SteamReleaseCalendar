@@ -5,78 +5,71 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:HMLbKAZFkpGS7d1MljYUl
-SUMMARY:Release: Split Fiction
-DTSTAMP:20250301T015631Z
-DTSTART;VALUE=DATE:20250306
-DESCRIPTION:Split Fiction will be released on this date!
+UID:U5tpWW1GA0FQV6_082E3e
+SUMMARY:Release: South of Midnight
+DTSTAMP:20250401T020747Z
+DTSTART;VALUE=DATE:20250408
+DESCRIPTION:South of Midnight will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:6wiubVvWd-D7bZhPdtWvw
-SUMMARY:Release: Wanderstop
-DTSTAMP:20250301T015631Z
-DTSTART;VALUE=DATE:20250311
-DESCRIPTION:Wanderstop will be released on this date!
+UID:U176kTDkpT8c-nMUFqCSV
+SUMMARY:Release: Star Overdrive
+DTSTAMP:20250401T020747Z
+DTSTART;VALUE=DATE:20250410
+DESCRIPTION:Star Overdrive will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:LDyZc-w9n7DMdrG4rM8L-
-SUMMARY:Release: Assassin's Creed Shadows
-DTSTAMP:20250301T015631Z
-DTSTART;VALUE=DATE:20250320
-DESCRIPTION:Assassin's Creed Shadows will be released on this date!
+UID:aK9oX45UK-ZdZimJqiDFL
+SUMMARY:Release: Lushfoil Photography Sim
+DTSTAMP:20250401T020747Z
+DTSTART;VALUE=DATE:20250415
+DESCRIPTION:Lushfoil Photography Sim will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:CD_k6dWG0bWMlaY9iKVhX
-SUMMARY:Release: Atelier Yumia: The Alchemist of Memories & the Envisioned 
-	Land
-DTSTAMP:20250301T015631Z
-DTSTART;VALUE=DATE:20250321
-DESCRIPTION:Atelier Yumia: The Alchemist of Memories & the Envisioned Land 
-	will be released on this date!
+UID:rLpT1YeQFup8MaEETV2kC
+SUMMARY:Release: Mandragora: Whispers of the Witch Tree
+DTSTAMP:20250401T020747Z
+DTSTART;VALUE=DATE:20250417
+DESCRIPTION:Mandragora: Whispers of the Witch Tree will be released on this
+	 date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:grXfo4_sliJPrK7l7Rnwy
-SUMMARY:Release: Tales of the Shire: A The Lord of The Rings
-DTSTAMP:20250301T015631Z
-DTSTART;VALUE=DATE:20250324
-DESCRIPTION:Tales of the Shire: A The Lord of The Rings will be released on
-	 this date!
+UID:rLFvUPbyz71hBeMYBRgn0
+SUMMARY:Release: Post Trauma
+DTSTAMP:20250401T020747Z
+DTSTART;VALUE=DATE:20250422
+DESCRIPTION:Post Trauma will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:YuykSwLAdMcW88K9XwRm4
-SUMMARY:Release: The First Berserker: Khazan
-DTSTAMP:20250301T015631Z
-DTSTART;VALUE=DATE:20250327
-DESCRIPTION:The First Berserker: Khazan will be released on this date!
+UID:FTBfJt98ca778S30fV_Xa
+SUMMARY:Release: Syberia: The World Before x Amerzone - The Explorer's Lega
+	cy
+DTSTAMP:20250401T020747Z
+DTSTART;VALUE=DATE:20250423
+DESCRIPTION:Syberia: The World Before x Amerzone - The Explorer's Legacy wi
+	ll be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:-eSUYGeUoFzVYe_Qzcjju
-SUMMARY:Release: AI-Limit
-DTSTAMP:20250301T015631Z
-DTSTART;VALUE=DATE:20250327
-DESCRIPTION:AI-Limit will be released on this date!
+UID:JbTokse77zmorhZJfqCgx
+SUMMARY:Release: Amerzone - The Explorer's Legacy (2025)
+DTSTAMP:20250401T020747Z
+DTSTART;VALUE=DATE:20250424
+DESCRIPTION:Amerzone - The Explorer's Legacy (2025) will be released on thi
+	s date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:DyyJHcSsSMSWmtusuMlaJ
-SUMMARY:Release: Atomfall
-DTSTAMP:20250301T015631Z
-DTSTART;VALUE=DATE:20250327
-DESCRIPTION:Atomfall will be released on this date!
-LOCATION:Steam Store
-END:VEVENT
-BEGIN:VEVENT
-UID:Xjcj7ujTAd1mXWDFmW_Eg
-SUMMARY:Release: Yes\, Your Grace: Snowfall
-DTSTAMP:20250301T015631Z
-DTSTART;VALUE=DATE:20250331
-DESCRIPTION:Yes\, Your Grace: Snowfall will be released on this date!
+UID:jTt4muaBYzFvOtsqv26H8
+SUMMARY:Release: Clair Obscur: Expedition 33
+DTSTAMP:20250401T020747Z
+DTSTART;VALUE=DATE:20250424
+DESCRIPTION:Clair Obscur: Expedition 33 will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 END:VCALENDAR
