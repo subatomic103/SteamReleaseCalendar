@@ -5,71 +5,102 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:U5tpWW1GA0FQV6_082E3e
-SUMMARY:Release: South of Midnight
-DTSTAMP:20250401T020747Z
-DTSTART;VALUE=DATE:20250408
-DESCRIPTION:South of Midnight will be released on this date!
+UID:CAvr52unE0o_bv3X7-J_G
+SUMMARY:Release: Captain Blood
+DTSTAMP:20250501T020942Z
+DTSTART;VALUE=DATE:20250506
+DESCRIPTION:Captain Blood will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:U176kTDkpT8c-nMUFqCSV
-SUMMARY:Release: Star Overdrive
-DTSTAMP:20250401T020747Z
-DTSTART;VALUE=DATE:20250410
-DESCRIPTION:Star Overdrive will be released on this date!
+UID:h6A4AUMg8-8ewrJU1ex53
+SUMMARY:Release: Revenge of the Savage Planet
+DTSTAMP:20250501T020942Z
+DTSTART;VALUE=DATE:20250507
+DESCRIPTION:Revenge of the Savage Planet will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:aK9oX45UK-ZdZimJqiDFL
-SUMMARY:Release: Lushfoil Photography Sim
-DTSTAMP:20250401T020747Z
-DTSTART;VALUE=DATE:20250415
-DESCRIPTION:Lushfoil Photography Sim will be released on this date!
+UID:JrsCfTd_W8Wadc0CQAJoY
+SUMMARY:Release: The Precinct
+DTSTAMP:20250501T020942Z
+DTSTART;VALUE=DATE:20250513
+DESCRIPTION:The Precinct will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:rLpT1YeQFup8MaEETV2kC
-SUMMARY:Release: Mandragora: Whispers of the Witch Tree
-DTSTAMP:20250401T020747Z
-DTSTART;VALUE=DATE:20250417
-DESCRIPTION:Mandragora: Whispers of the Witch Tree will be released on this
-	 date!
+UID:ABYjvRs3dsasijLvyA5_K
+SUMMARY:Release: Tennis Manager 25
+DTSTAMP:20250501T020942Z
+DTSTART;VALUE=DATE:20250514
+DESCRIPTION:Tennis Manager 25 will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:rLFvUPbyz71hBeMYBRgn0
-SUMMARY:Release: Post Trauma
-DTSTAMP:20250401T020747Z
-DTSTART;VALUE=DATE:20250422
-DESCRIPTION:Post Trauma will be released on this date!
+UID:WThslrYp7t01zyQ_Xfxwq
+SUMMARY:Release: Doom: The Dark Ages
+DTSTAMP:20250501T020942Z
+DTSTART;VALUE=DATE:20250515
+DESCRIPTION:Doom: The Dark Ages will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:FTBfJt98ca778S30fV_Xa
-SUMMARY:Release: Syberia: The World Before x Amerzone - The Explorer's Lega
-	cy
-DTSTAMP:20250401T020747Z
-DTSTART;VALUE=DATE:20250423
-DESCRIPTION:Syberia: The World Before x Amerzone - The Explorer's Legacy wi
-	ll be released on this date!
+UID:Ov_WVVCFG9eVTEnHzFqbV
+SUMMARY:Release: Dune Awakening
+DTSTAMP:20250501T020942Z
+DTSTART;VALUE=DATE:20250520
+DESCRIPTION:Dune Awakening will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:JbTokse77zmorhZJfqCgx
-SUMMARY:Release: Amerzone - The Explorer's Legacy (2025)
-DTSTAMP:20250401T020747Z
-DTSTART;VALUE=DATE:20250424
-DESCRIPTION:Amerzone - The Explorer's Legacy (2025) will be released on thi
-	s date!
+UID:TnjmCihv-g2km17LU-cje
+SUMMARY:Release: Fantasy Life i
+DTSTAMP:20250501T020942Z
+DTSTART;VALUE=DATE:20250521
+DESCRIPTION:Fantasy Life i will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:jTt4muaBYzFvOtsqv26H8
-SUMMARY:Release: Clair Obscur: Expedition 33
-DTSTAMP:20250401T020747Z
-DTSTART;VALUE=DATE:20250424
-DESCRIPTION:Clair Obscur: Expedition 33 will be released on this date!
+UID:TjgeWpXjT-bVvWhBavwqx
+SUMMARY:Release: Tainted Grail: The Fall of Avalon
+DTSTAMP:20250501T020942Z
+DTSTART;VALUE=DATE:20250523
+DESCRIPTION:Tainted Grail: The Fall of Avalon will be released on this date
+	!
+LOCATION:Steam Store
+END:VEVENT
+BEGIN:VEVENT
+UID:IdxCwlSuOgSa_OjfQRxCU
+SUMMARY:Release: Onimusha 2: Samurai's Destiny (Remaster)
+DTSTAMP:20250501T020942Z
+DTSTART;VALUE=DATE:20250523
+DESCRIPTION:Onimusha 2: Samurai's Destiny (Remaster) will be released on th
+	is date!
+LOCATION:Steam Store
+END:VEVENT
+BEGIN:VEVENT
+UID:SGqJ5XrsuY-QgphqToKWJ
+SUMMARY:Release: Cosmi: Forbidden Forests
+DTSTAMP:20250501T020942Z
+DTSTART;VALUE=DATE:20250526
+DESCRIPTION:Cosmi: Forbidden Forests will be released on this date!
+LOCATION:Steam Store
+END:VEVENT
+BEGIN:VEVENT
+UID:HISvPFNtGQSnkoZbLp5tH
+SUMMARY:Release: Disney Illusion Island Starring Mickey and Friends
+DTSTAMP:20250501T020942Z
+DTSTART;VALUE=DATE:20250529
+DESCRIPTION:Disney Illusion Island Starring Mickey and Friends will be rele
+	ased on this date!
+LOCATION:Steam Store
+END:VEVENT
+BEGIN:VEVENT
+UID:tTMfFGfqJgRAE3gfMbZ5o
+SUMMARY:Release: Rune Factory: Guardians of Azuma
+DTSTAMP:20250501T020942Z
+DTSTART;VALUE=DATE:20250530
+DESCRIPTION:Rune Factory: Guardians of Azuma will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 END:VCALENDAR
