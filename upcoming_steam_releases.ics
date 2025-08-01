@@ -5,76 +5,77 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:QBuRtm2ZiJTLRsRXojjas
-SUMMARY:Release: Every Day We Fight
-DTSTAMP:20250701T022633Z
-DTSTART;VALUE=DATE:20250709
-DESCRIPTION:Every Day We Fight will be released on this date!
+UID:L2J2_cuYOo68mXxcuwde-
+SUMMARY:Release: Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2
+DTSTAMP:20250801T023612Z
+DTSTART;VALUE=DATE:20250805
+DESCRIPTION:Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 will 
+	be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:pZKrOf8E9F45bCpTBF-DQ
-SUMMARY:Release: Tony Hawk's Pro Skater 3 + 4
-DTSTAMP:20250701T022633Z
-DTSTART;VALUE=DATE:20250711
-DESCRIPTION:Tony Hawk's Pro Skater 3 + 4 will be released on this date!
+UID:yKc4ImMjiG3F3ZRjnfF7-
+SUMMARY:Release: Mafia: The Old Country
+DTSTAMP:20250801T023612Z
+DTSTART;VALUE=DATE:20250808
+DESCRIPTION:Mafia: The Old Country will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:l7V1IYdvV5ZJspIBJUftf
-SUMMARY:Release: Golden Tee Arcade Classics
-DTSTAMP:20250701T022633Z
-DTSTART;VALUE=DATE:20250716
-DESCRIPTION:Golden Tee Arcade Classics will be released on this date!
+UID:OyEz_2LYvHvNLBG6lTcDI
+SUMMARY:Release: Bendy: Lone Wolf
+DTSTAMP:20250801T023612Z
+DTSTART;VALUE=DATE:20250814
+DESCRIPTION:Bendy: Lone Wolf will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:mbotLbOBMgeU5pDvFUNvx
-SUMMARY:Release: Shadow Labyrinth
-DTSTAMP:20250701T022633Z
-DTSTART;VALUE=DATE:20250718
-DESCRIPTION:Shadow Labyrinth will be released on this date!
+UID:to5FhkLm8U74SXyRW4eN2
+SUMMARY:Release: Sword of the Sea
+DTSTAMP:20250801T023612Z
+DTSTART;VALUE=DATE:20250819
+DESCRIPTION:Sword of the Sea will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:IQcw5GDBpjWBpqWAFZfVd
-SUMMARY:Release: Luto
-DTSTAMP:20250701T022633Z
-DTSTART;VALUE=DATE:20250722
-DESCRIPTION:Luto will be released on this date!
+UID:3zAdZoebm2p0siJquayyi
+SUMMARY:Release: Gears of War: Reloaded
+DTSTAMP:20250801T023612Z
+DTSTART;VALUE=DATE:20250826
+DESCRIPTION:Gears of War: Reloaded will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:WuSshQAfLCPbx1YZlkXMJ
-SUMMARY:Release: Wuchang: Fallen Feathers
-DTSTAMP:20250701T022633Z
-DTSTART;VALUE=DATE:20250724
-DESCRIPTION:Wuchang: Fallen Feathers will be released on this date!
+UID:GgXtT1o9YWZY0DWy08zr-
+SUMMARY:Release: STORY OF SEASONS: Grand Bazaar
+DTSTAMP:20250801T023612Z
+DTSTART;VALUE=DATE:20250827
+DESCRIPTION:STORY OF SEASONS: Grand Bazaar will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:305yOeCNaXX2YbcUv-igX
-SUMMARY:Release: Tales of the Shire: A The Lord of The Rings
-DTSTAMP:20250701T022633Z
-DTSTART;VALUE=DATE:20250729
-DESCRIPTION:Tales of the Shire: A The Lord of The Rings will be released on
-	 this date!
+UID:p-Qn9IuSS9QnnEMjNkZRw
+SUMMARY:Release: Metal Gear Solid Delta: Snake Eater
+DTSTAMP:20250801T023612Z
+DTSTART;VALUE=DATE:20250828
+DESCRIPTION:Metal Gear Solid Delta: Snake Eater will be released on this da
+	te!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:zQFxcVM2mwjgKW-Qybb6i
-SUMMARY:Release: NINJA GAIDEN: Ragebound
-DTSTAMP:20250701T022633Z
-DTSTART;VALUE=DATE:20250731
-DESCRIPTION:NINJA GAIDEN: Ragebound will be released on this date!
+UID:Ki6RFAt7bUZxftnwfSzmK
+SUMMARY:Release: Lost Soul Aside
+DTSTAMP:20250801T023612Z
+DTSTART;VALUE=DATE:20250829
+DESCRIPTION:Lost Soul Aside will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:YbGT69m4ERTVrZ0FQ7wn2
-SUMMARY:Release: Wander Stars
-DTSTAMP:20250701T022633Z
-DTSTART;VALUE=DATE:20250731
-DESCRIPTION:Wander Stars will be released on this date!
+UID:lFakvx7q9i1KnLyZ93Fqc
+SUMMARY:Release: Shinobi: Art of Vengeance
+DTSTAMP:20250801T023612Z
+DTSTART;VALUE=DATE:20250829
+DESCRIPTION:Shinobi: Art of Vengeance will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 END:VCALENDAR
