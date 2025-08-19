@@ -30,8 +30,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --local user.email "tristanrmcbride@gmail.com"
-          git config --local user.name "Tristan McBride"
+          git config --local user.email "github.subatomic103@passmail.net"
+          git config --local user.name "Tristan"
           git add upcoming_steam_releases.ics
           git commit -m "Update calendar file" || echo "No changes to commit"
           git push
