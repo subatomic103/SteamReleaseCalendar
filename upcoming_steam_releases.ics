@@ -5,77 +5,125 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:L2J2_cuYOo68mXxcuwde-
-SUMMARY:Release: Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2
-DTSTAMP:20250801T023612Z
-DTSTART;VALUE=DATE:20250805
-DESCRIPTION:Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 will 
-	be released on this date!
+UID:6RTTPYtfHteke6a9wru_E
+SUMMARY:Release: Hirogami
+DTSTAMP:20250901T021921Z
+DTSTART;VALUE=DATE:20250903
+DESCRIPTION:Hirogami will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:yKc4ImMjiG3F3ZRjnfF7-
-SUMMARY:Release: Mafia: The Old Country
-DTSTAMP:20250801T023612Z
-DTSTART;VALUE=DATE:20250808
-DESCRIPTION:Mafia: The Old Country will be released on this date!
+UID:l6YN__MxlGj0Xemwu_PFc
+SUMMARY:Release: Adventure of Samsara
+DTSTAMP:20250901T021921Z
+DTSTART;VALUE=DATE:20250903
+DESCRIPTION:Adventure of Samsara will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:OyEz_2LYvHvNLBG6lTcDI
-SUMMARY:Release: Bendy: Lone Wolf
-DTSTAMP:20250801T023612Z
-DTSTART;VALUE=DATE:20250814
-DESCRIPTION:Bendy: Lone Wolf will be released on this date!
+UID:YHBbAo3GrqMzW-cwxOxRo
+SUMMARY:Release: Cronos: The New Dawn
+DTSTAMP:20250901T021921Z
+DTSTART;VALUE=DATE:20250904
+DESCRIPTION:Cronos: The New Dawn will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:to5FhkLm8U74SXyRW4eN2
-SUMMARY:Release: Sword of the Sea
-DTSTAMP:20250801T023612Z
-DTSTART;VALUE=DATE:20250819
-DESCRIPTION:Sword of the Sea will be released on this date!
+UID:p-T4ABjLlkFTNdddJdRpM
+SUMMARY:Release: Hollow Knight: Silksong
+DTSTAMP:20250901T021921Z
+DTSTART;VALUE=DATE:20250904
+DESCRIPTION:Hollow Knight: Silksong will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:3zAdZoebm2p0siJquayyi
-SUMMARY:Release: Gears of War: Reloaded
-DTSTAMP:20250801T023612Z
-DTSTART;VALUE=DATE:20250826
-DESCRIPTION:Gears of War: Reloaded will be released on this date!
+UID:AWkBnuRgreRbFbXumuAVf
+SUMMARY:Release: Hell is Us
+DTSTAMP:20250901T021921Z
+DTSTART;VALUE=DATE:20250904
+DESCRIPTION:Hell is Us will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:GgXtT1o9YWZY0DWy08zr-
-SUMMARY:Release: STORY OF SEASONS: Grand Bazaar
-DTSTAMP:20250801T023612Z
-DTSTART;VALUE=DATE:20250827
-DESCRIPTION:STORY OF SEASONS: Grand Bazaar will be released on this date!
+UID:cagpdLCre-MCyGL3GXO4C
+SUMMARY:Release: Daemon X Machina: Titanic Scion
+DTSTAMP:20250901T021921Z
+DTSTART;VALUE=DATE:20250905
+DESCRIPTION:Daemon X Machina: Titanic Scion will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:p-Qn9IuSS9QnnEMjNkZRw
-SUMMARY:Release: Metal Gear Solid Delta: Snake Eater
-DTSTAMP:20250801T023612Z
-DTSTART;VALUE=DATE:20250828
-DESCRIPTION:Metal Gear Solid Delta: Snake Eater will be released on this da
-	te!
+UID:9Qv6pX37jBDWHrBhm8Ngj
+SUMMARY:Release: Borderlands 4
+DTSTAMP:20250901T021921Z
+DTSTART;VALUE=DATE:20250912
+DESCRIPTION:Borderlands 4 will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:Ki6RFAt7bUZxftnwfSzmK
-SUMMARY:Release: Lost Soul Aside
-DTSTAMP:20250801T023612Z
-DTSTART;VALUE=DATE:20250829
-DESCRIPTION:Lost Soul Aside will be released on this date!
+UID:iEvmfVHrdlWveBKV-fHS1
+SUMMARY:Release: LEGO Voyagers
+DTSTAMP:20250901T021921Z
+DTSTART;VALUE=DATE:20250915
+DESCRIPTION:LEGO Voyagers will be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 BEGIN:VEVENT
-UID:lFakvx7q9i1KnLyZ93Fqc
-SUMMARY:Release: Shinobi: Art of Vengeance
-DTSTAMP:20250801T023612Z
-DTSTART;VALUE=DATE:20250829
-DESCRIPTION:Shinobi: Art of Vengeance will be released on this date!
+UID:thu488kg93cCvSvMK2AZ_
+SUMMARY:Release: Assassin's Creed Shadows: Claws of Awaji
+DTSTAMP:20250901T021921Z
+DTSTART;VALUE=DATE:20250916
+DESCRIPTION:Assassin's Creed Shadows: Claws of Awaji will be released on th
+	is date!
+LOCATION:Steam Store
+END:VEVENT
+BEGIN:VEVENT
+UID:_ySkxovDCSjeR8F_TFrwK
+SUMMARY:Release: Marathon
+DTSTAMP:20250901T021921Z
+DTSTART;VALUE=DATE:20250923
+DESCRIPTION:Marathon will be released on this date!
+LOCATION:Steam Store
+END:VEVENT
+BEGIN:VEVENT
+UID:R1sWkc_Jna4laU7Be-pz2
+SUMMARY:Release: Baby Steps
+DTSTAMP:20250901T021921Z
+DTSTART;VALUE=DATE:20250923
+DESCRIPTION:Baby Steps will be released on this date!
+LOCATION:Steam Store
+END:VEVENT
+BEGIN:VEVENT
+UID:B9i0EM6hdqBWmqmiTo1_Z
+SUMMARY:Release: Sonic Racing: CrossWorlds
+DTSTAMP:20250901T021921Z
+DTSTART;VALUE=DATE:20250925
+DESCRIPTION:Sonic Racing: CrossWorlds will be released on this date!
+LOCATION:Steam Store
+END:VEVENT
+BEGIN:VEVENT
+UID:IoF45wDYJN5aaCz26TF7X
+SUMMARY:Release: EA SPORTS FC 26
+DTSTAMP:20250901T021921Z
+DTSTART;VALUE=DATE:20250925
+DESCRIPTION:EA SPORTS FC 26 will be released on this date!
+LOCATION:Steam Store
+END:VEVENT
+BEGIN:VEVENT
+UID:uJkyFripvA7SchCKjM4n7
+SUMMARY:Release: Silent Hill f
+DTSTAMP:20250901T021921Z
+DTSTART;VALUE=DATE:20250925
+DESCRIPTION:Silent Hill f will be released on this date!
+LOCATION:Steam Store
+END:VEVENT
+BEGIN:VEVENT
+UID:FoyVlLbZBZ8jcSGvPNnJZ
+SUMMARY:Release: Atelier Resleriana: The Red Alchemist & the White Guardian
+DTSTAMP:20250901T021921Z
+DTSTART;VALUE=DATE:20250926
+DESCRIPTION:Atelier Resleriana: The Red Alchemist & the White Guardian will
+	 be released on this date!
 LOCATION:Steam Store
 END:VEVENT
 END:VCALENDAR
